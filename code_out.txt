@@ -1,0 +1,2 @@
+Data is in between 40 and 6618504
+Data is: 42 at array index: 17 with finger at: 5
